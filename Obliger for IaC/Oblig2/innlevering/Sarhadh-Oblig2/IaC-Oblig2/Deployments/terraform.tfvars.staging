@@ -1,0 +1,3 @@
+location            = "East US"
+sql_admin_login     = "stagingadmin"
+sql_admin_password  = "SuperSecureStagingPassword123!"

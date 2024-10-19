@@ -1,0 +1,3 @@
+location            = "East US"
+sql_admin_login     = "prodadmin"
+sql_admin_password  = "SuperSecureProdPassword123!"

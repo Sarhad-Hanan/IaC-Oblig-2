@@ -1,0 +1,3 @@
+location            = "East US"
+sql_admin_login     = "devadmin"
+sql_admin_password  = "SuperSecureDevPassword123!"
